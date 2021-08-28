@@ -19,3 +19,4 @@ hello git
 远程到本地git clone 远程地址
 远程到本地git clone 远程地址
 远程到本地git clone 远程地址
+ssh
